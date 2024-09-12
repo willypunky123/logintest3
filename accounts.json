@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "username": "william",
+      "password": "hashed_password_here"
+    }
+    // Add more users if needed
+  ]
+}
