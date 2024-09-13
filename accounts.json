@@ -2,8 +2,8 @@
   "users": [
     {
       "username": "william",
-      "password": "hashed_password_here"
+      "password": "gillies"
     }
-    // Add more users if needed
+    
   ]
 }
